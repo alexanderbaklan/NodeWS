@@ -1,0 +1,21 @@
+{
+  "name": "webserver",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Aliaksandr Baklan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.2",
+    "bootstrap": "^4.6.0"
+  }
+}
